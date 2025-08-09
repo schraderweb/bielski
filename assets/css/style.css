@@ -753,10 +753,6 @@ img {
 /** header-top **/
 
 
-@media screen and (max-width: 600px) {
-  div.header-top {
-    display: none;
-  }
 .header-top{
   position: relative;
   width: 100%;
@@ -2251,6 +2247,7 @@ button.ltr {
   color: #fff;
   background: var(--theme-color);
 }
+
 
 
 
